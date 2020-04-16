@@ -11,3 +11,5 @@ Let person wolf goat and cabbage be p w g c
 Let the both river bank be a and b where
 
 The person need to take w g c from bank a to bank b
+
+Usage: (load "WGC")
